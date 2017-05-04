@@ -13,7 +13,7 @@ These effects include but are not limited to:
 4) 2D image manipulation (blitter style)
 5) 3D vectors, glenz & filled vectors
 6) shading (gouraud, phong...)
-7) env maps, bumb maps etc.
+7) env maps, bump maps etc.
 8) some math + image processing
 9) rendering, ray tracing etc.
 
