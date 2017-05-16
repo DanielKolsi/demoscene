@@ -9,12 +9,14 @@ These effects include but are not limited to:
 
 1) different text scrolling (sinus etc.)
 2) "copper" effects (colors!)
-3) fractals (Julian & Mandelbrot sets etc.)
-4) 2D image manipulation (blitter style)
+3) fractals (Julian & Mandelbrot sets etc.), http://acko.net/blog/how-to-fold-a-julia-fractal/
+4) 2D image manipulation (blitter style), bobs...
 5) 3D vectors, glenz & filled vectors
 6) shading (gouraud, phong...)
 7) env maps, bump maps etc.
 8) some math + image processing
 9) rendering, ray tracing etc.
-
+10) image zoom + rotate 
+11) plasma
+12) voxels...
 Bonus: some kind of storyline...
